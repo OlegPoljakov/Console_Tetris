@@ -1,0 +1,7 @@
+D:\С#\C# TETRISES\Все заново\Tetris\Tetris\bin\Debug\Tetris.exe.config
+D:\С#\C# TETRISES\Все заново\Tetris\Tetris\bin\Debug\Tetris.exe
+D:\С#\C# TETRISES\Все заново\Tetris\Tetris\bin\Debug\Tetris.pdb
+D:\С#\C# TETRISES\Все заново\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\С#\C# TETRISES\Все заново\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\С#\C# TETRISES\Все заново\Tetris\Tetris\obj\Debug\Tetris.exe
+D:\С#\C# TETRISES\Все заново\Tetris\Tetris\obj\Debug\Tetris.pdb

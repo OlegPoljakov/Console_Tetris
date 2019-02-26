@@ -1,0 +1,7 @@
+D:\Programming\C#\C# TETRIS\Tetrsis_finished\Tetris\Tetris\bin\Release\Tetris.exe.config
+D:\Programming\C#\C# TETRIS\Tetrsis_finished\Tetris\Tetris\bin\Release\Tetris.exe
+D:\Programming\C#\C# TETRIS\Tetrsis_finished\Tetris\Tetris\bin\Release\Tetris.pdb
+D:\Programming\C#\C# TETRIS\Tetrsis_finished\Tetris\Tetris\obj\Release\Tetris.csproj.CoreCompileInputs.cache
+D:\Programming\C#\C# TETRIS\Tetrsis_finished\Tetris\Tetris\obj\Release\Tetris.exe
+D:\Programming\C#\C# TETRIS\Tetrsis_finished\Tetris\Tetris\obj\Release\Tetris.pdb
+D:\Programming\C#\C# TETRIS\Tetrsis_finished\Tetris\Tetris\obj\Release\Tetris.csprojAssemblyReference.cache
